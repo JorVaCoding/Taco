@@ -8,6 +8,9 @@ public class Burrito {
         print("Taco: Hello, I'm a burrito.");
         print("Burrito: NO YOU'RE NOT! YOU ARE A TACO! I'M A BURRITO!");
         print("Bread: I am bread.");
+        print("Taco: What if I want to be a burrito?");
+        print("Burrito: You're not even a soft taco! Everyone knows that burritos are made with tortillas.");
+        print("Bread: BREAD!");
         
 
     }
