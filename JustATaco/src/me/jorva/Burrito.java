@@ -5,6 +5,15 @@ package me.jorva;
  */
 public class Burrito {
     public static void main(String[] args){
-        System.out.println("Hello, I'm a burrito.");
+        print("Taco: Hello, I'm a burrito.");
+        print("Burrito: NO YOU'RE NOT! YOU ARE A TACO! I'M A BURRITO!");
+        print("Bread: I am bread.");
+        
+
     }
+
+    public static void print(String s){
+        System.out.println(s);
+    }
+
 }
